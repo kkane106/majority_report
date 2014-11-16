@@ -1,0 +1,14 @@
+#Kris Kane
+
+My intention with this project is to practice the use of design patterns and apply them to within a rails context to refactor my final project from Phase 3 at Dev Bootcamp. 
+
+This application will provide codereviewers a means of quickly analyzing a project to find where the majority of work is currently being done. I will utilize the data provided by Git to visually represent activity and efficiently orient reviewers to the activity on a project with which they have little familiarity.
+
+# Technology
+- Rails 4
+- PostreSQL
+- javaScript
+- jQuery
+- BassCSS
+- Shell
+- Omniauth
